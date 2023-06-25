@@ -1,0 +1,136 @@
+@charset "ISO-8859-1";
+/* frontbar */
+.frontbar {
+  background-color: #ffcc00;
+  color: #333;
+  font-size: 24px;
+  padding: 10px;
+  border-bottom: 2px solid #333;
+}
+
+/* spacing */
+.spacing {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #ddd;
+  background-color: #f5f5f5;
+}
+
+/* navioo */
+.navioo {
+  background-color: #333;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px;
+  border-bottom: 2px solid #fff;
+}
+
+/* highbar */
+.highbar {
+  background-color: #6699cc;
+  color: #fff;
+  font-size: 20px;
+  padding: 8px 12px;
+  border-bottom: 2px solid #fff;
+}
+
+/* box */
+.box {
+  background-color: #fff;
+  color: #333;
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+/* boxs1 */
+.boxs1 {
+  background-color: #f5f5f5;
+  color: #333;
+  font-size: 14px;
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+/* box2 */
+.box2 {
+  background-color: #ffcc99;
+  color: #333;
+  font-size: 18px;
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+/* box3 */
+.box3 {
+  background-color: #cc99ff;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px;
+  border: 2px solid #fff;
+}
+
+/* box5 */
+.box5 {
+  background-color: #66cc66;
+  color: #fff;
+  font-size: 20px;
+  padding: 12px;
+  border: 2px solid #fff;
+}
+
+/* git */
+.git {
+  background-color: #f1e05a;
+  color: #333;
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+/* foot */
+.foot {
+  background-color: #333;
+  color: #fff;
+  font-size: 14px;
+  padding: 10px;
+  border-top: 2px solid #fff;
+}
+
+/* lowbar */
+.lowbar {
+  background-color: #eee;
+  color: #333;
+  font-size: 16px;
+  padding: 8px;
+  border-top: 2px solid #ddd;
+}
+
+/* navhigh */
+.navhigh {
+  background-color: #6699cc;
+  color: #fff;
+  font-size: 18px;
+  padding: 12px;
+  border-bottom: 2px solid #fff;
+}
+
+/* high */
+.high {
+  background-color: #ff6666;
+  color: #fff;
+  font-size: 22px;
+  padding: 14px;
+  border: 2px solid #fff;
+}
+
+/* low */
+.low {
+  background-color: #f5f5f5;
+  color: #333;
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
